@@ -1,0 +1,7 @@
+[package]
+name = "amethystgame"
+version = "0.1.0"
+authors = ["Lightnet"]
+
+[dependencies]
+amethyst = "0.8"
